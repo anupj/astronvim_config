@@ -18,7 +18,8 @@ return {
   },
   -- Set colorscheme to use
   -- colorscheme = "astrodark",
-  colorscheme = "catppuccin",
+  -- colorscheme = "catppuccin",
+  colorscheme = "carbonfox",
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
     virtual_text = true,
